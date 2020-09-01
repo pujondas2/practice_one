@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 960px;
+    margin: auto;
+    font-family: Montserrat;
+    font-size: 16px;
+}
+
+header {
+    background-color: rgb(206, 205, 206);
+    padding: 10px 0;
+    text-align: center;
+}
+
+section {
+    margin: 25px 0;
+    border: 2px solid #000;
+    padding: 20px 10px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
+footer {
+    background-color: rgb(206, 205, 206);
+    padding: 10px 0;
+}
+
+footer p {
+    margin-left: 10px;
+}
